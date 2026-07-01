@@ -1,3 +1,9 @@
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge&logo=n8n)
+![Gemini](https://img.shields.io/badge/Google-Gemini-blue?style=for-the-badge&logo=google)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-green?style=for-the-badge&logo=googlesheets)
+![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 # 🚀 AI Job Search Automation
 
 An AI-powered job search automation platform that aggregates software engineering jobs from multiple sources, filters opportunities based on user-defined criteria, enriches job postings using AI, and stores structured results for tracking and analysis.
