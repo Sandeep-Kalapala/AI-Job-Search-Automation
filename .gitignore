@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# n8n
+*.sqlite
+*.db
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+
+# API Keys
+credentials.json
+service-account.json
+
+# Local settings
+config.json
